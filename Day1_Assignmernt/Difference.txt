@@ -1,0 +1,27 @@
+                                                                                                Java Programming Zero to Hero Program 
+                                                                                                               Day-1 Assignment 
+
+
+                                                                                                 Difference between Compiler and Interpreter
+
+                                                                       
+                                                                      Compiler                                                                        Interpreter
+   
+                                           1. Compiler scans the whole program                            1. Interpreter translates program statement at a time.
+                                                in one go. 
+
+                                          2. As it scans the code at one go ,the errors(if any)        2. Considering it scans code one line at a time, errors are 
+                                             are shown at the end.                                                      shown line by line.  
+  
+                                          3. Main advantage of compilrs is it's execution time.      3. Due to interpreters being slow in executing the object code
+                                                                                                                                     it is preferred less.
+   
+                                         4. It converts the source code into object code.               4. It does not source code into object code instead it scans it line by line. 
+  
+                                         5. It does not require source code for later execution.      5. It requires source code for later execution.
+  
+                                         6. The Compiler isbest suited for the production             6. An interpreter isbest suited for a software development environment. 
+                                            environment.
+   
+                                        7. The compiler is used by programmming languages        7. An interpreter is used by programming languages such as Python, Ruby, PHP,etc..
+                                            such as C, C++, C# , Scala ,Java,etc..                       
